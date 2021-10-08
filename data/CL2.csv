@@ -1,4 +1,4 @@
-Participant_ID,D,I,S,C
+Participant_ID,Dominance,Influence,Steadiness,Conscientiousness
 ID2,6,11,24,59
 ID3,5,12,0,83
 ID4,6,10,0,84
@@ -88,6 +88,3 @@ ID97,23,11,6,60
 ID98,4,7,28,61
 ID99,4,8,21,67
 ID101,11,5,60,24
-ID102,6,11,24,60
-ID103,7,58,22,13
-ID104,10,5,61,24
