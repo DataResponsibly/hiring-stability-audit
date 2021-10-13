@@ -1,4 +1,4 @@
-Participant_ID,Dominance,Influence,Steadiness,DiSC Calculativeness,Openness,Big Five Conscientiousness,Extraversion,Agreableness,Emotional Stability,Attitude and Outlook,Need for Autonomy,Teamwork Skills,General Behavior,Action Orientedness,Stability Potential,Learning Ability,Confidence Score,output_success
+Participant_ID,Dominance,Influence,Steadiness,DiSC Calculativeness,Openness,Big Five Conscientiousness,Extraversion,Agreeableness,Emotional Stability,Attitude and Outlook,Need for Autonomy,Teamwork Skills,General Behavior,Action Orientedness,Stability Potential,Learning Ability,Confidence Score,output_success
 ID61,6.9,4.9,6.4,8.3,6.39,5.76,3.65,6.48,5.16,3.6,5.5,4.5,4.6,6.1,7.8,6.4,70.8,True
 ID62,6.1,4.6,6.1,7.8,5.23,4.8,4.9,6.43,3.26,2.2,5.0,4.2,4.6,5.2,6.6,5.0,52.8,True
 ID63,6.7,5.3,3.9,8.3,5.58,6.32,3.36,4.49,5.05,4.6,4.9,5.3,4.7,6.0,6.8,8.3,63.9,True
