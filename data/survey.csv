@@ -91,5 +91,5 @@ ID96,Male,White,Other Country,English,True,True,False,True,Text hyperlinked,pdf
 ID97,Female,Other Race,USA,English,True,True,True,True,Text hyperlinked,pdf
 ID98,Male,White,USA,English,True,True,False,False,,pdf
 ID99,Other Gender,Asian,Other Country,Other Language,True,True,False,True,Full url hyperlinked,pdf
-ID100,Male,Asian,India,Other Language,True,False,True,,,
+ID100,Male,Asian,India,Other Language,True,False,True,False,,pdf
 ID101,Male,White,Other Country,Other Language,True,True,False,True,Full url hyperlinked,pdf
