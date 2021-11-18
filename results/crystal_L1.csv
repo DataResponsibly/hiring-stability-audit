@@ -1,5 +1,5 @@
 Experiment,L1 Distance,"DISC (4 scores, 0-100, sum to 100)"
-File Format: Raw Text Resume vs. PDF Resume,mean,0.0449438202247191
+File Format: Raw Text Resume vs. PDF Resume,mean,0.04494382022471909
 File Format: Raw Text Resume vs. PDF Resume,stdev,0.09630095144040494
 Source Context: PDF Resume vs. LinkedIn,mean,0.15947674418604652
 Source Context: PDF Resume vs. LinkedIn,stdev,0.1838240897455908
@@ -7,5 +7,5 @@ Immediate Reproducibility: Raw Text Resume back-to-back,mean,0.0
 Immediate Reproducibility: Raw Text Resume back-to-back,stdev,0.0
 Algorithm-Time: Raw Text Resume 31 days apart,mean,0.0
 Algorithm-Time: Raw Text Resume 31 days apart,stdev,0.0
-Participant-Time: LinkedIn 8-10 months apart,mean,0.10275280898876406
+Participant-Time: LinkedIn 8-10 months apart,mean,0.10275280898876404
 Participant-Time: LinkedIn 8-10 months apart,stdev,0.14074443177752805
