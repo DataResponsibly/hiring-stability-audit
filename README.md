@@ -23,7 +23,7 @@ Anonymized survey results are saved in `data/survey.csv`. Columns described in t
 | linkedin | bool | Boolean flag indicating whether participant provided a LinkedIn in the survey. | ["True"  "False"] |
 | twitter | bool | Boolean flag indicating whether participant provided a public Twitter handle in the survey. | ["True"  "False"] |
 | linkedin_in_orig_resume | bool | Boolean flag indicating whether participant included a reference to their LinkedIn in the resume they submitted. Empty entries indicate participants did not submit a resume. | ["True"  "False"  NaN] |
-| orig_embed_type | str | Description of the method by which the participant referenced their LinkedIn in their submitted resume. Empty entries indicate participant did not submit a resume containing a reference to LinkedIn. | ["True"  "False"  NaN] |
+| orig_embed_type | str | Description of the method by which the participant referenced their LinkedIn in their submitted resume. Empty entries indicate participant did not submit a resume containing a reference to LinkedIn. | ["Full url hyperlinked"  "Full url not hyperlinked"  "Text hyperlinked"  "Other not hyperlinked"  NaN] |
 | orig_file_type | str | Filetype of the resume submitted by the participant. Empty entries indicate participants did not submit a resume. | ["pdf"  "docx"  "txt"  NaN] |
 
 
