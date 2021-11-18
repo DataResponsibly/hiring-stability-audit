@@ -1,23 +1,23 @@
 Experiment,L1 Distance,"DISC (4 scores, 0-10)","Big Five (5 scores, 0-10)"
 File Format: De-Identified Resume vs. DOCX Resume,mean,0.004747191011235953,0.005795505617977529
 File Format: De-Identified Resume vs. DOCX Resume,stdev,0.006260327914153396,0.0075273271456629
-URL Embedding: URL-Embedded Resume vs. De-Identified Resume,mean,0.10729651162790697,0.10616976744186048
+URL Embedding: URL-Embedded Resume vs. De-Identified Resume,mean,0.10729651162790699,0.1061697674418605
 URL Embedding: URL-Embedded Resume vs. De-Identified Resume,stdev,0.0635289888924082,0.05958641578797591
-URL-Embedding: URL-Embedded Resume vs. LinkedIn,mean,0.10560240963855425,0.07094457831325302
-URL-Embedding: URL-Embedded Resume vs. LinkedIn,stdev,0.06630250858599585,0.04877118755644109
+URL-Embedding: URL-Embedded Resume vs. LinkedIn,mean,0.1056024096385542,0.07094457831325303
+URL-Embedding: URL-Embedded Resume vs. LinkedIn,stdev,0.06630250858599583,0.04877118755644108
 Source Context: De-Identified Resume vs. LinkedIn,mean,0.1449702380952381,0.131
 Source Context: De-Identified Resume vs. LinkedIn,stdev,0.06788415163203008,0.05208782875837604
-Source Context: Original Resume vs. LinkedIn,mean,0.07967261904761906,0.06406904761904762
-Source Context: Original Resume vs. LinkedIn,stdev,0.09420230554148379,0.07833781239908301
-Source Context: Original Resume vs. Twitter,mean,0.16925000000000004,0.19947
+Source Context: Original Resume vs. LinkedIn,mean,0.07967261904761905,0.06406904761904762
+Source Context: Original Resume vs. LinkedIn,stdev,0.09420230554148379,0.078337812399083
+Source Context: Original Resume vs. Twitter,mean,0.16925,0.19946999999999998
 Source Context: Original Resume vs. Twitter,stdev,0.05687211531145997,0.09001784878567139
-Source Context: LinkedIn vs. Twitter,mean,0.1816666666666667,0.21813333333333335
-Source Context: LinkedIn vs. Twitter,stdev,0.06051859218455102,0.10559595951866088
+Source Context: LinkedIn vs. Twitter,mean,0.1816666666666667,0.21813333333333332
+Source Context: LinkedIn vs. Twitter,stdev,0.06051859218455103,0.10559595951866088
 Immediate Reproducibility: De-Identified Resume back-to-back,mean,5.6179775280898926e-05,5.6179775280898675e-05
-Immediate Reproducibility: De-Identified Resume back-to-back,stdev,0.0005270130067217341,0.00037803604137664413
-Algorithm-Time: De-Identified Resume 31 days apart,mean,0.003455056179775282,0.0035168539325842667
+Immediate Reproducibility: De-Identified Resume back-to-back,stdev,0.000527013006721734,0.00037803604137664413
+Algorithm-Time: De-Identified Resume 31 days apart,mean,0.003455056179775282,0.003516853932584267
 Algorithm-Time: De-Identified Resume 31 days apart,stdev,0.011794742794190703,0.011287372241790015
 Participant-Time: LinkedIn 7-9 months apart,mean,0.08863636363636364,0.05666363636363637
-Participant-Time: LinkedIn 7-9 months apart,stdev,0.07234987306299441,0.04893341993747075
+Participant-Time: LinkedIn 7-9 months apart,stdev,0.07234987306299442,0.04893341993747075
 Participant-Time: Twitter 7-9 months apart,mean,0.0,0.0
 Participant-Time: Twitter 7-9 months apart,stdev,0.0,0.0
