@@ -1,0 +1,11 @@
+Experiment,Run Median,Run,N,Dominance,Influence,Steadiness,Conscientiousness
+File Format: Raw Text Resume vs. PDF Resume,control,Raw Text Resume,89,5.0,10.0,23.0,59.0
+File Format: Raw Text Resume vs. PDF Resume,treatment,PDF Resume,89,5.0,10.0,23.0,60.0
+Source Context: PDF Resume vs. LinkedIn,control,PDF Resume,86,5.0,10.0,22.0,60.0
+Source Context: PDF Resume vs. LinkedIn,treatment,LinkedIn,86,5.0,10.0,22.0,61.0
+Immediate Reproducibility: Raw Text Resume back-to-back,control,Raw Text Resume,89,5.0,10.0,23.0,59.0
+Immediate Reproducibility: Raw Text Resume back-to-back,treatment,Raw Text Resume again,89,5.0,10.0,23.0,59.0
+Algorithm-Time: Raw Text Resume 31 days apart,control,Raw Text Resume,89,5.0,10.0,23.0,59.0
+Algorithm-Time: Raw Text Resume 31 days apart,treatment,Raw Text Resume later,89,5.0,10.0,23.0,59.0
+Participant-Time: LinkedIn 8-10 months apart,control,LinkedIn,89,5.0,10.0,22.0,62.0
+Participant-Time: LinkedIn 8-10 months apart,treatment,LinkedIn later,89,5.0,10.0,22.0,62.0

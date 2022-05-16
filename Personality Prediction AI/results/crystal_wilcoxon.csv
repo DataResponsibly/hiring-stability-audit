@@ -1,0 +1,11 @@
+Experiment,Two-tailed Wilcoxon,N,Dominance,Influence,Steadiness,Conscientiousness
+File Format: Raw Text Resume vs. PDF Resume,W,89,106.0,122.5,158.5,270.5
+File Format: Raw Text Resume vs. PDF Resume,p,89,0.5025604501728473,0.4208430750685973,0.0172663165107892,0.03697188730749942
+Source Context: PDF Resume vs. LinkedIn,W,86,833.5,747.5,1501.5,1578.5
+Source Context: PDF Resume vs. LinkedIn,p,86,0.4190339552566452,0.0011779405705097305,0.7009888927939297,0.8420568637545501
+Immediate Reproducibility: Raw Text Resume back-to-back,W,89,,,,
+Immediate Reproducibility: Raw Text Resume back-to-back,p,89,,,,
+Algorithm-Time: Raw Text Resume 31 days apart,W,89,,,,
+Algorithm-Time: Raw Text Resume 31 days apart,p,89,,,,
+Participant-Time: LinkedIn 8-10 months apart,W,89,626.5,545.0,953.5,969.0
+Participant-Time: LinkedIn 8-10 months apart,p,89,0.7299404148734028,0.6517807632902579,0.33046384727091527,0.28702764392390456
